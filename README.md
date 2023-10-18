@@ -14,7 +14,12 @@ O **Flutter Quiz** é um aplicativo desenvolvido em Dart e Flutter que desafia o
 
 ## Capturas de Tela
 
-<img src="https://drive.google.com/uc?export=view&id=1I8sHs4YydG3WXdLqOHfFhWCtI6GoLbNP" alt="Captura de tela inicial" width="200" display: inline-block>  <img src="https://drive.google.com/uc?export=view&id=1ebV8qFE2QkV0IW_Zax5Uz2m5PFV7rHEi" alt="Captura de tela de perguntas"  width="200" display: inline-block>  <img src="https://drive.google.com/uc?export=view&id=1TE4CxtnexuLWpZ8GlmmfK8WefOjKYZ4d" alt="Captura de tela de resultados"  width="200" display: inline-block>
+<p float="left">
+  <img src="https://drive.google.com/uc?export=view&id=1I8sHs4YydG3WXdLqOHfFhWCtI6GoLbNP" alt="Captura de tela inicial" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1ebV8qFE2QkV0IW_Zax5Uz2m5PFV7rHEi" alt="Captura de tela inicial" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1TE4CxtnexuLWpZ8GlmmfK8WefOjKYZ4d" alt="Captura de tela inicial" width="200">
+</p>
+
 
 ## Pré-requisitos
 
